@@ -2,16 +2,12 @@
 	"anilabx_lite" : {
 		"version": "1.0",
 		"version_code": 1,
-		"changelog": {
-	
-		}
+		"changelog": ""
 	},
 	"labx_player" : {
 		"version": "1.0",
 		"version_code": 1,
-		"changelog": {
-	
-		}
+		"changelog": ""
 	},
 	"links": {
 		"anilabx_lite": "",
