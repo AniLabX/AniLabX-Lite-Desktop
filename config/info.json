@@ -1,8 +1,8 @@
 {
 	"anilabx_lite" : {
-		"version": "1.2",
-		"version_code": 3,
-		"changelog": "- критические исправления в парсинге ссылок на эпизоды"
+		"version": "1.3",
+		"version_code": 5,
+		"changelog": "-"
 	},
 	"labx_player" : {
 		"version": "1.0",
