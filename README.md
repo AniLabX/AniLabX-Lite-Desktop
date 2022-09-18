@@ -3,6 +3,6 @@ AniLabX Lite is a Desktop application for watching anime on your PC without ads 
 
 ## Downloads
 
-[Download latest Release](https://github.com/CrazyXacker/AniLabX-Lite-Desktop/releases/tag/v1.1)
+[Download latest Release](https://github.com/CrazyXacker/AniLabX-Lite-Desktop/releases)
 
 ![Anime catalog in app](/images/catalog.png)
