@@ -1,10 +1,13 @@
-**WARNING**: App is Deprecated and broken. You may use it with AniLabX (Android) and XRemote or wait new version of app for PC
+# DEPRECATED
 
-# AniLabX-Lite-Desktop
-AniLabX Lite is a Desktop application for watching anime on your PC without ads and in a good quality (720p/1080p)
+**WARNING**: App is broken! You may use it as client for `XRemote` with `AniLabX (Android)` or switch to `AniLabX MAX` when it will be released
 
-## Downloads
+## AniLabX Lite (Desktop)
+`AniLabX Lite` is a Desktop application for watching anime on your PC without ads and in a good quality (`720p`/`1080p`)
+
+### Downloads
 
 [Download latest Release](https://github.com/CrazyXacker/AniLabX-Lite-Desktop/releases)
 
+### Preview
 ![Anime catalog in app](/images/catalog.png)
